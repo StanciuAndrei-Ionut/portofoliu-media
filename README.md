@@ -3,7 +3,7 @@
 Teme și proiecte, clasa a XII-a, Producție media,
 Liceul Tehnologic „Grigore C. Moisil” Buzău.
 
-https://github.com/StanciuAndrei-Ionut/portofoliu-media.git
+https://stanciuandrei-ionut.github.io/portofoliu-media/
 
 ## Lucrări
 
